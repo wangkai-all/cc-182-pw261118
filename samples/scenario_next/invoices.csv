@@ -1,0 +1,3 @@
+invoice_id,contract_id,amount,issued_on
+INV-1001,CTR-1001,45000.00,2026-05-20
+INV-1002,CTR-1002,8000.00,2026-06-01

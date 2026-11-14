@@ -1,0 +1,5 @@
+customer_id,name,region,contact_email
+CUST-0001,星海智能制造有限公司,华东,ops@xinghai.example
+CUST-0002,云岭清洁能源集团,西南,finance@yunling.example
+CUST-0003,北辰冷链物流,华北,ar@beichen.example
+CUST-0004,澜川医疗器械,华南,ap@lanchuan.example

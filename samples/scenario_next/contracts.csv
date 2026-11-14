@@ -1,0 +1,3 @@
+contract_id,customer_id,title,amount,signed_on
+CTR-1001,CUST-1001,港口理货服务合同,90000.00,2026-05-01
+CTR-1002,CUST-1002,实验室耗材合同,15000.00,2026-05-08
